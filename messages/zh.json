@@ -1,0 +1,86 @@
+{
+  "Header": {
+    "home": "首页",
+    "expansionStrategies": "扩张策略",
+    "growthIntelligence": "增长智能",
+    "blog": "博客"
+  },
+  "HeroSection": {
+    "title": "欢迎来到Growth Business Development",
+    "subtitle": "我们理解每个项目都是转变和发展您业务的独特机会。",
+    "cta": "探索我们的服务"
+  },
+  "GrowthDeveloper": {
+    "title": "业务发展专家",
+    "description": "业务发展专家是专门识别和创造企业发展机会的专业人士。他们的角色涵盖从战略规划到实施推动业务发展的举措。",
+    "cta": "预约会议"
+  },
+  "ExpansionStrategies": {
+    "title": "墨西哥市场扩张策略",
+    "description": "我们的服务旨在推动您的企业在墨西哥市场的增长，利用独特机遇并克服特定挑战。",
+    "strategies": {
+      "marketAnalysis": "市场分析",
+      "strategicAlliances": "战略联盟发展",
+      "processOptimization": "业务流程优化",
+      "innovativeTech": "创新技术实施"
+    },
+    "cta": "探索机会"
+  },
+  "GrowthIntelligence": {
+    "title": "增长智能：推动增长",
+    "subtitle": "智能业务自动化",
+    "description": "增长智能是我们的智能自动化解决方案，旨在优化流程、分析数据并生成有价值的见解，推动您的业务增长。",
+    "cta": "了解增长智能"
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth联盟",
+    "description": "AliEst-Growth是我们专门创建和加强战略联盟的企业集团。我们利用独特的协同效应推动共同增长，为合作伙伴创造长期价值。",
+    "benefits": {
+      "network": "访问多样化的战略合作伙伴网络",
+      "collaboration": "跨行业合作机会",
+      "resources": "共享资源和规模经济",
+      "innovation": "协作创新和新市场开发"
+    },
+    "cta": "建立联盟"
+  },
+  "BlogSection": {
+    "title": "墨西哥增长市场",
+    "readMore": "阅读更多",
+    "posts": {
+      "startups": {
+        "title": "墨西哥创业公司的崛起",
+        "description": "探索创业生态系统如何改变墨西哥经济。"
+      },
+      "fintech": {
+        "title": "金融科技创新",
+        "description": "分析最新金融科技趋势及其对传统金融服务的影响。"
+      },
+      "expansion": {
+        "title": "国际扩张策略",
+        "description": "面向寻求跨越国界扩张的企业的实用指南。"
+      }
+    }
+  },
+  "CTASection": {
+    "title": "准备好推动您的业务了吗？",
+    "description": "了解我们的增长策略和联盟如何将您的公司提升到新的水平。",
+    "cta": "立即安排会议，让我们共同开展您的下一个重大项目"
+  },
+  "Footer": {
+    "quickLinks": "快速链接",
+    "contact": "联系我们",
+    "newsletter": "新闻通讯",
+    "subscribeButton": "订阅",
+    "copyright": "© {year} Growth Business Development México. 保留所有权利。",
+    "home": "首页",
+    "services": "服务",
+    "expansionStrategies": "扩张策略",
+    "growthIntelligence": "增长智能",
+    "blog": "博客"
+  },
+  "AgenteBD": {
+    "title": "BD助理",
+    "placeholder": "输入您的消息...",
+    "welcomeMessage": "您好！我是BD助理，今天我能为您做些什么？我可以为您提供有关我们服务的信息，安排会议或回答您的任何问题。"
+  }
+}

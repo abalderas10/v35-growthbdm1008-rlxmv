@@ -1,0 +1,250 @@
+{
+  "Header": {
+    "home": "Inicio",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "buildAlliances": "Construye Alianzas",
+    "topBanner": "AliEst Conoce un Grupo de éxito probado que Crea Alianzas Estratégicas"
+  },
+  "HeroSection": {
+    "title": "Bienvenido a Growth Business Development",
+    "subtitle": "Entendemos que cada proyecto es una oportunidad única para transformar y hacer crecer tu negocio.",
+    "cta": "Explora Nuestros Servicios"
+  },
+  "GrowthDeveloper": {
+    "title": "Un Growth Business Developer",
+    "description": "Un Growth Business Developer es un profesional especializado en identificar y crear oportunidades de crecimiento para las empresas. Su rol abarca desde la planificación estratégica hasta la implementación de iniciativas que impulsan el desarrollo del negocio.",
+    "cta": "Agenda una Reunión"
+  },
+  "ExpansionStrategies": {
+    "hero": {
+      "title": "Expande tu Negocio Inmobiliario en México",
+      "subtitle": "Con Growth Business Development, haz crecer tu empresa en uno de los mercados más dinámicos y prometedores del sector inmobiliario.",
+      "cta": "Descubre nuestras estrategias"
+    },
+    "whyMexico": {
+      "title": "México: Un Mercado en Crecimiento",
+      "description": "México es un destino estratégico para empresas extranjeras, con un crecimiento sostenido en el sector de la construcción y grandes oportunidades para desarrolladores.",
+      "stats": {
+        "growth": "+6% Crecimiento anual del sector inmobiliario",
+        "investment": "+8.5% Aumento en inversión extranjera directa",
+        "projects": "150+ Proyectos de infraestructura en desarrollo",
+        "destination": "#1 Destino de inversión en LATAM"
+      },
+      "cta": "Conoce el Potencial del Mercado"
+    },
+    "strategies": {
+      "title": "Estrategias Personalizadas para Impulsar tu Crecimiento",
+      "description": "Diseñamos soluciones estratégicas que te ayudan a superar los retos del mercado mexicano y maximizar las oportunidades de crecimiento en el sector inmobiliario.",
+      "items": {
+        "projectOptimization": {
+          "title": "Optimización de Proyectos Inmobiliarios",
+          "description": "Adaptamos tus proyectos a las demandas del mercado local."
+        },
+        "supplierSelection": {
+          "title": "Selección Estratégica de Proveedores",
+          "description": "Colaboramos con proveedores de confianza para asegurar calidad y eficiencia."
+        },
+        "projectManagement": {
+          "title": "Gestión de Proyectos",
+          "description": "Supervisamos cada fase del proyecto, desde la planificación hasta la ejecución."
+        },
+        "designServices": {
+          "title": "Servicios de Diseño y Construcción",
+          "description": "Ofrecemos soluciones innovadoras y sostenibles."
+        }
+      }
+    },
+    "networking": {
+      "title": "Accede a una Red de Oportunidades",
+      "description": "El networking con Growth BD te conecta con una red de proveedores confiables, tecnologías avanzadas y expertos del sector inmobiliario.",
+      "advantages": {
+        "quality": "Acceso a Proveedores de Calidad",
+        "optimization": "Optimización de Costos y Tiempos",
+        "compliance": "Cumplimiento Normativo Garantizado",
+        "innovation": "Innovación y Tecnología al Alcance",
+        "riskReduction": "Reducción de Riesgos"
+      }
+    },
+    "testimonials": {
+      "title": "Lo que Nuestros Clientes Dicen",
+      "quote": "Gracias a Growth BD, nuestra expansión en México fue fluida y exitosa. Nos guiaron en cada paso, desde la estrategia hasta la ejecución del proyecto.",
+      "author": "Empresa Líder en Desarrollo Inmobiliario",
+      "cta": "Contáctanos y Expande tu Negocio"
+    },
+    "contact": {
+      "title": "¿Listo para Expandir tu Negocio?",
+      "subtitle": "Completa el formulario y uno de nuestros expertos se pondrá en contacto para guiarte en tu expansión.",
+      "form": {
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "company": "Empresa",
+        "message": "Mensaje",
+        "submit": "Envía tu Solicitud"
+      }
+    }
+  },
+  "GrowthIntelligence": {
+    "hero": {
+      "title": "Growth Intelligence",
+      "subtitle": "Construye el Futuro de tu Negocio",
+      "description": "En Growth Business Development, transformamos la manera en que operas y haces crecer tu negocio. Somos expertos en desarrollo de negocios, creación de páginas web personalizadas, y la implementación de agentes de inteligencia artificial.",
+      "cta": "Conoce más"
+    },
+    "solutions": {
+      "title": "Soluciones Inteligentes para Empresas de Construcción, Arquitectura e Ingeniería",
+      "webDevelopment": {
+        "title": "Páginas Web Personalizadas",
+        "description": "Creamos páginas web a la medida para empresas de construcción, arquitectura, ingeniería y más.",
+        "features": [
+          "Portafolios de Proyectos: Muestra tus obras con galerías atractivas",
+          "Integración de Contacto: Simplifica la comunicación con tus clientes",
+          "SEO Optimizado: Aumenta tu visibilidad en línea y genera más leads"
+        ]
+      },
+      "aiAgents": {
+        "title": "Agentes de Inteligencia Artificial",
+        "description": "Implementa asistentes virtuales que entienden las necesidades de tu industria.",
+        "features": [
+          "Responden preguntas frecuentes sobre servicios, materiales y procesos",
+          "Gestionan inventarios en tiempo real",
+          "Automatizan la atención a clientes y la programación de citas",
+          "Realizan ventas y promociones de manera inteligente"
+        ]
+      },
+      "processAutomation": {
+        "title": "Automatización de Procesos",
+        "description": "Libera el potencial de tu equipo automatizando tareas repetitivas:",
+        "features": [
+          "Control de Inventarios: Actualizaciones automáticas y alertas en tiempo real",
+          "Gestión de Cotizaciones: Cotizaciones dinámicas basadas en precios actuales",
+          "Análisis Predictivo: Información para tomar decisiones estratégicas"
+        ]
+      }
+    },
+    "advantages": {
+      "title": "Ventajas que Transforman Tu Negocio",
+      "items": {
+        "costReduction": {
+          "title": "Reducción de Costos",
+          "description": "Automatiza procesos operativos y administrativos"
+        },
+        "efficiency": {
+          "title": "Incremento en la Eficiencia",
+          "description": "Enfoca a tu equipo en tareas estratégicas"
+        },
+        "customization": {
+          "title": "Personalización Total",
+          "description": "Adaptamos cada solución a los desafíos únicos de tu negocio"
+        },
+        "scalability": {
+          "title": "Escalabilidad Garantizada",
+          "description": "Nuestras herramientas crecen contigo"
+        }
+      }
+    },
+    "process": {
+      "title": "¿Cómo Funciona?",
+      "steps": {
+        "analysis": {
+          "title": "Análisis Inicial",
+          "description": "Evaluamos tus necesidades específicas y proponemos soluciones estratégicas"
+        },
+        "implementation": {
+          "title": "Implementación Rápida",
+          "description": "Diseñamos, desarrollamos e integramos las herramientas necesarias"
+        },
+        "optimization": {
+          "title": "Optimización Continua",
+          "description": "Ajustamos y mejoramos los sistemas para maximizar resultados"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para potenciar tu negocio con Growth Intelligence?",
+      "description": "Descubre cómo nuestra solución puede transformar tu empresa",
+      "button": "Agenda una Demostración"
+    },
+    "newsletter": {
+      "title": "Transforma tu Negocio Hoy Mismo",
+      "description": "Eleva el rendimiento de tu empresa con Growth Intelligence. Desde una página web profesional hasta la implementación de tecnología de punta, estamos listos para impulsar tu éxito.",
+      "subscribe": {
+        "title": "Suscríbete a Nuestro Boletín",
+        "placeholder": "Tu correo electrónico",
+        "button": "Suscribirse"
+      }
+    }
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth",
+    "description": "AliEst-Growth es nuestro grupo de empresas especializadas en crear y fortalecer alianzas estratégicas. Aprovechamos sinergias únicas para impulsar el crecimiento mutuo y generar valor a largo plazo para nuestros socios.",
+    "benefits": {
+      "network": "Acceso a una red diversa de socios estratégicos",
+      "collaboration": "Oportunidades de colaboración intersectorial",
+      "resources": "Recursos compartidos y economías de escala",
+      "innovation": "Innovación colaborativa y desarrollo de nuevos mercados"
+    },
+    "cta": "Construye Alianzas"
+  },
+  "BlogSection": {
+    "title": "Mercado en Crecimiento en México",
+    "readMore": "Leer más",
+    "categories": {
+      "all": "Todos",
+      "architecture": "Arquitectura",
+      "construction": "Construcción",
+      "engineering": "Ingenierías",
+      "interiors": "Interiores Corporativos",
+      "business": "Business Development",
+      "scrum": "Scrum y Metodologías Ágiles"
+    }
+  },
+  "CTASection": {
+    "title": "¿Listo para impulsar tu negocio?",
+    "description": "Descubre cómo nuestras estrategias de crecimiento y alianzas pueden llevar tu empresa al siguiente nivel.",
+    "cta": "Agenda una reunión hoy y trabajemos en tu próximo gran proyecto"
+  },
+  "Footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "newsletter": "Boletín Informativo",
+    "subscribeButton": "Suscribirse",
+    "copyright": "© {year} Growth Business Development México. Todos los derechos reservados.",
+    "home": "Inicio",
+    "services": "Servicios",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contactInfo": {
+      "email": "Email: contacto@growthbdm.com",
+      "phone": "Teléfono: +52 (55) 2701 6354",
+      "address": "Ciudad de México, México"
+    }
+  },
+  "AgenteBD": {
+    "title": "Agente BD",
+    "placeholder": "Escribe tu mensaje...",
+    "welcomeMessage": "¡Hola! Soy el Agente BD, ¿cómo puedo ayudarte hoy? Estoy aquí para asistirte con información sobre nuestros servicios, agendar reuniones o responder cualquier pregunta que tengas.",
+    "send": "Enviar",
+    "typing": "Escribiendo..."
+  },
+  "Contact": {
+    "title": "Contáctanos",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "success": "Mensaje enviado exitosamente",
+      "error": "Error al enviar el mensaje"
+    }
+  },
+  "StrategicAlliances": {
+    "title": "Alianzas Estratégicas",
+    "description": "Nuestra red de socios de confianza impulsa tu éxito",
+    "partners": "Nuestros Socios"
+  }
+}

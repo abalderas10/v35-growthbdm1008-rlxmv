@@ -1,0 +1,73 @@
+{
+  "name": "Chat Processing Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "chat-webhook",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "content": "={{$json[\"message\"]}}",
+        "options": {}
+      },
+      "name": "AI Processing",
+      "type": "n8n-nodes-base.openai",
+      "typeVersion": 1,
+      "position": [
+        500,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "create",
+        "chatData": {
+          "sessionId": "={{$json[\"sessionId\"]}}",
+          "message": "={{$json[\"message\"]}}",
+          "response": "={{$node[\"AI Processing\"].json[\"response\"]}}"
+        }
+      },
+      "name": "Save Chat",
+      "type": "n8n-nodes-base.mongoDb",
+      "typeVersion": 1,
+      "position": [
+        750,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "AI Processing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Processing": {
+      "main": [
+        [
+          {
+            "node": "Save Chat",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

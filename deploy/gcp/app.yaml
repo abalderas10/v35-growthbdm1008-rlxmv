@@ -1,0 +1,23 @@
+runtime: nodejs18
+env: standard
+
+instance_class: F1
+
+automatic_scaling:
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 10
+  target_throughput_utilization: 0.6
+
+env_variables:
+  NODE_ENV: "production"
+  NEXT_PUBLIC_API_URL: "https://api.growthbdm.com"
+  N8N_WEBHOOK_BASE_URL: "https://n8n.growthbdm.com"
+
+handlers:
+  - url: /.*
+    script: auto
+    secure: always
+
+includes:
+  - deploy/gcp/env.yaml

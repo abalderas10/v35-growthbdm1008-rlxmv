@@ -1,0 +1,250 @@
+{
+  "Header": {
+    "home": "Home",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contact": "Contact",
+    "buildAlliances": "Build Alliances",
+    "topBanner": "AliEst Discover a proven success group that Creates Strategic Alliances"
+  },
+  "HeroSection": {
+    "title": "Welcome to Growth Business Development",
+    "subtitle": "We understand that each project is a unique opportunity to transform and grow your business.",
+    "cta": "Explore Our Services"
+  },
+  "GrowthDeveloper": {
+    "title": "A Growth Business Developer",
+    "description": "A Growth Business Developer is a professional specialized in identifying and creating growth opportunities for companies. Their role spans from strategic planning to implementing initiatives that drive business development.",
+    "cta": "Schedule a Meeting"
+  },
+  "ExpansionStrategies": {
+    "hero": {
+      "title": "Expand Your Real Estate Business in Mexico",
+      "subtitle": "With Growth Business Development, grow your company in one of the most dynamic and promising markets in the real estate sector.",
+      "cta": "Discover our strategies"
+    },
+    "whyMexico": {
+      "title": "Mexico: A Growing Market",
+      "description": "Mexico is a strategic destination for foreign companies, with sustained growth in the construction sector and great opportunities for developers.",
+      "stats": {
+        "growth": "+6% Annual growth in real estate sector",
+        "investment": "+8.5% Increase in foreign direct investment",
+        "projects": "150+ Infrastructure projects in development",
+        "destination": "#1 Investment destination in LATAM"
+      },
+      "cta": "Explore Market Potential"
+    },
+    "strategies": {
+      "title": "Customized Strategies to Drive Your Growth",
+      "description": "We design strategic solutions that help you overcome Mexican market challenges and maximize growth opportunities in the real estate sector.",
+      "items": {
+        "projectOptimization": {
+          "title": "Real Estate Project Optimization",
+          "description": "We adapt your projects to local market demands."
+        },
+        "supplierSelection": {
+          "title": "Strategic Supplier Selection",
+          "description": "We collaborate with trusted suppliers to ensure quality and efficiency."
+        },
+        "projectManagement": {
+          "title": "Project Management",
+          "description": "We oversee each project phase, from planning to execution."
+        },
+        "designServices": {
+          "title": "Design and Construction Services",
+          "description": "We offer innovative and sustainable solutions."
+        }
+      }
+    },
+    "networking": {
+      "title": "Access a Network of Opportunities",
+      "description": "Networking with Growth BD connects you with a network of reliable suppliers, advanced technologies, and real estate industry experts.",
+      "advantages": {
+        "quality": "Access to Quality Suppliers",
+        "optimization": "Cost and Time Optimization",
+        "compliance": "Guaranteed Regulatory Compliance",
+        "innovation": "Innovation and Technology Access",
+        "riskReduction": "Risk Reduction"
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "quote": "Thanks to Growth BD, our expansion in Mexico was smooth and successful. They guided us through every step, from strategy to project execution.",
+      "author": "Leading Real Estate Development Company",
+      "cta": "Contact Us and Expand Your Business"
+    },
+    "contact": {
+      "title": "Ready to Expand Your Business?",
+      "subtitle": "Complete the form and one of our experts will contact you to guide you through your expansion.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "message": "Message",
+        "submit": "Send Your Request"
+      }
+    }
+  },
+  "GrowthIntelligence": {
+    "hero": {
+      "title": "Growth Intelligence",
+      "subtitle": "Build the Future of Your Business",
+      "description": "At Growth Business Development, we transform the way you operate and grow your business. We are experts in business development, custom website creation, and AI agent implementation.",
+      "cta": "Learn More"
+    },
+    "solutions": {
+      "title": "Intelligent Solutions for Construction, Architecture, and Engineering Companies",
+      "webDevelopment": {
+        "title": "Custom Websites",
+        "description": "We create tailored websites for construction, architecture, engineering, and more.",
+        "features": [
+          "Project Portfolios: Showcase your works with attractive galleries",
+          "Contact Integration: Simplify communication with your clients",
+          "SEO Optimized: Increase your online visibility and generate more leads"
+        ]
+      },
+      "aiAgents": {
+        "title": "Artificial Intelligence Agents",
+        "description": "Implement virtual assistants that understand your industry's needs.",
+        "features": [
+          "Answer frequent questions about services, materials, and processes",
+          "Manage inventories in real-time",
+          "Automate customer service and appointment scheduling",
+          "Conduct sales and promotions intelligently"
+        ]
+      },
+      "processAutomation": {
+        "title": "Process Automation",
+        "description": "Unleash your team's potential by automating repetitive tasks:",
+        "features": [
+          "Inventory Control: Automatic updates and real-time alerts",
+          "Quote Management: Dynamic quotes based on current prices",
+          "Predictive Analysis: Information for strategic decision-making"
+        ]
+      }
+    },
+    "advantages": {
+      "title": "Advantages that Transform Your Business",
+      "items": {
+        "costReduction": {
+          "title": "Cost Reduction",
+          "description": "Automate operational and administrative processes"
+        },
+        "efficiency": {
+          "title": "Increased Efficiency",
+          "description": "Focus your team on strategic tasks"
+        },
+        "customization": {
+          "title": "Total Customization",
+          "description": "We adapt each solution to your unique challenges"
+        },
+        "scalability": {
+          "title": "Guaranteed Scalability",
+          "description": "Our tools grow with you"
+        }
+      }
+    },
+    "process": {
+      "title": "How It Works",
+      "steps": {
+        "analysis": {
+          "title": "Initial Analysis",
+          "description": "We evaluate your specific needs and propose strategic solutions"
+        },
+        "implementation": {
+          "title": "Rapid Implementation",
+          "description": "We design, develop, and integrate the necessary tools"
+        },
+        "optimization": {
+          "title": "Continuous Optimization",
+          "description": "We adjust and improve systems to maximize results"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to power your business with Growth Intelligence?",
+      "description": "Discover how our solution can transform your company",
+      "button": "Schedule a Demo"
+    },
+    "newsletter": {
+      "title": "Transform Your Business Today",
+      "description": "Elevate your company's performance with Growth Intelligence. From a professional website to cutting-edge technology implementation, we're ready to drive your success.",
+      "subscribe": {
+        "title": "Subscribe to Our Newsletter",
+        "placeholder": "Your email",
+        "button": "Subscribe"
+      }
+    }
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth",
+    "description": "AliEst-Growth is our group of companies specialized in creating and strengthening strategic alliances. We leverage unique synergies to drive mutual growth and generate long-term value for our partners.",
+    "benefits": {
+      "network": "Access to a diverse network of strategic partners",
+      "collaboration": "Cross-sector collaboration opportunities",
+      "resources": "Shared resources and economies of scale",
+      "innovation": "Collaborative innovation and new market development"
+    },
+    "cta": "Build Alliances"
+  },
+  "BlogSection": {
+    "title": "Growing Market in Mexico",
+    "readMore": "Read More",
+    "categories": {
+      "all": "All",
+      "architecture": "Architecture",
+      "construction": "Construction",
+      "engineering": "Engineering",
+      "interiors": "Corporate Interiors",
+      "business": "Business Development",
+      "scrum": "Scrum and Agile Methodologies"
+    }
+  },
+  "CTASection": {
+    "title": "Ready to boost your business?",
+    "description": "Discover how our growth strategies and alliances can take your company to the next level.",
+    "cta": "Schedule a meeting today and let's work on your next big project"
+  },
+  "Footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "subscribeButton": "Subscribe",
+    "copyright": "© {year} Growth Business Development México. All rights reserved.",
+    "home": "Home",
+    "services": "Services",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog",
+    "contactInfo": {
+      "email": "Email: contact@growthbdm.com",
+      "phone": "Phone: +52 (55) 2701 6354",
+      "address": "Mexico City, Mexico"
+    }
+  },
+  "AgenteBD": {
+    "title": "BD Agent",
+    "placeholder": "Type your message...",
+    "welcomeMessage": "Hi! I'm the BD Agent, how can I help you today? I'm here to assist you with information about our services, schedule meetings, or answer any questions you may have.",
+    "send": "Send",
+    "typing": "Typing..."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Message sent successfully",
+      "error": "Error sending message"
+    }
+  },
+  "StrategicAlliances": {
+    "title": "Strategic Alliances",
+    "description": "Our network of trusted partners drives your success",
+    "partners": "Our Partners"
+  }
+}

@@ -1,0 +1,27 @@
+# Versioning and metadata
+.git
+.gitignore
+.dockerignore
+
+# Dependencies
+node_modules
+npm-debug.log
+
+# Build output
+.next
+out
+
+# Environment (never commit these)
+.env
+.env.local
+.env.*.local
+
+# Development tools
+.vscode
+.idea
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db

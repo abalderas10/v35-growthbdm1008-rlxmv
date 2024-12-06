@@ -1,0 +1,77 @@
+{
+  "name": "Lead Processing Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "webhook",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "create",
+        "leadData": {
+          "firstName": "={{$json[\"firstName\"]}}",
+          "lastName": "={{$json[\"lastName\"]}}",
+          "email": "={{$json[\"email\"]}}",
+          "company": "={{$json[\"company\"]}}",
+          "message": "={{$json[\"message\"]}}"
+        }
+      },
+      "name": "CRM",
+      "type": "n8n-nodes-base.crm",
+      "typeVersion": 1,
+      "position": [
+        500,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "fromEmail": "noreply@growthbdm.com",
+        "toEmail": "={{$json[\"email\"]}}",
+        "subject": "Thanks for contacting Growth BDM",
+        "text": "=We've received your message and will get back to you shortly.\n\nBest regards,\nGrowth BDM Team"
+      },
+      "name": "Send Email",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 1,
+      "position": [
+        750,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "CRM",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "CRM": {
+      "main": [
+        [
+          {
+            "node": "Send Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

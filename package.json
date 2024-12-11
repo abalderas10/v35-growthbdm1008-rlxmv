@@ -7,42 +7,61 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "next-intl:extract": "next-intl extract",
+    "next-intl:analyze": "next-intl analyze",
     "deploy:gcp": "gcloud app deploy deploy/gcp/app.yaml",
     "n8n:import": "n8n import:workflow deploy/n8n/workflows/*.json"
   },
   "dependencies": {
-    "@google-cloud/storage": "^7.0.0",
-    "@radix-ui/react-accordion": "^1.1.2",
-    "@radix-ui/react-dialog": "^1.0.5",
-    "@radix-ui/react-dropdown-menu": "^2.0.6",
-    "@radix-ui/react-label": "^2.0.2",
-    "@radix-ui/react-slot": "^1.0.2",
-    "@radix-ui/react-toast": "^1.1.5",
-    "class-variance-authority": "^0.7.0",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "clsx": "^2.0.0",
-    "cmdk": "^0.2.0",
-    "embla-carousel-react": "^8.0.0-rc17",
-    "framer-motion": "^10.16.4",
+
+
+
+
+
     "lucide-react": "^0.279.0",
-    "next": "13.5.7",
-    "next-intl": "^3.3.2",
+    "next": "^15.1.0",
+    "next-intl": "^4.0.0",
     "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-day-picker": "^8.9.1",
     "react-dom": "18.2.0",
-    "sonner": "^1.2.4",
+
     "tailwind-merge": "^1.14.0",
-    "tailwindcss-animate": "^1.0.7",
-    "vaul": "^0.7.9",
+
+
+
     "zustand": "^4.4.7"
   },
   "devDependencies": {
-    "@types/node": "20.6.2",
-    "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.7",
+
+
+
+
+
     "autoprefixer": "^10.4.15",
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3",
     "typescript": "5.2.2"
   }
 }
+  "next-intl": {
+
+
+
+  }

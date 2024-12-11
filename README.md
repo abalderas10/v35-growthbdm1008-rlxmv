@@ -1,4 +1,5 @@
-# Growth Business Development México
+node -v
+npm -vnode -v# Growth Business Development México
 
 A modern, multilingual business development platform built with Next.js 13, focusing on expansion strategies and growth intelligence for the Mexican market.
 
